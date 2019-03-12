@@ -1,4 +1,4 @@
-package com.nohochdevelopers.githubtest;
+package com.ndevelopers.githubtest;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

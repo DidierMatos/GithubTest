@@ -1,4 +1,4 @@
-package com.nohochdevelopers.githubtest;
+package com.ndevelopers.githubtest;
 
 import org.junit.Test;
 

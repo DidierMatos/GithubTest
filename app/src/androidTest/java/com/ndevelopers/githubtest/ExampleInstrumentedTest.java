@@ -1,4 +1,4 @@
-package com.nohochdevelopers.githubtest;
+package com.ndevelopers.githubtest;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.nohochdevelopers.githubtest", appContext.getPackageName());
+        assertEquals("com.ndevelopers.githubtest", appContext.getPackageName());
     }
 }
